@@ -1,3 +1,4 @@
 {
+	"name": "cit-prmise",
 	"main": "src/cit-promise.js"
 }
