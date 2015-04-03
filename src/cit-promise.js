@@ -25,4 +25,4 @@ function CITPromise() {
 }
 
 
-return new CITPromise();
+module.exports = new CITPromise();
